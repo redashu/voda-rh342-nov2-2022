@@ -69,6 +69,9 @@
 
 <img src="audit.png">
 
+### SElinux context 
+
+<img src="sel.png">
 
 
 
