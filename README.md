@@ -31,6 +31,28 @@
 <img src="is.png">
 
 
+## collecting information for troubleshooting --
+
+### understanding logging methods 
+
+<img src="logm.png">
+
+### by default journald store temporary logs 
+
+<img src="jl.png">
+
+### storage logs 
+
+<img src="slog.png">
+
+### making persistent journald logging 
+
+<img src="per.png">
+
+### more on JournalCTL 
+
+<img src="jc.png">
+
 
 
 
