@@ -18,6 +18,18 @@
 
 <img src="ch.png">
 
+### user need things to login
+
+<img src="log.png">
+
+### checking details for student user
+
+<img src="dt.png">
+
+### fixing issues 
+
+<img src="is.png">
+
 
 
 
