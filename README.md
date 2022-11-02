@@ -53,6 +53,22 @@
 
 <img src="jc.png">
 
+### Journald -- systemd-journald 
+
+<img src="jd.png">
+
+## Introduction to Rsyslog 
+
+<img src="rsys.png">
+
+### rsyslog conf 
+
+<img src="rsys1.png">
+
+## introducing audit in RHEL 
+
+<img src="audit.png">
+
 
 
 
