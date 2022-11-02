@@ -10,5 +10,15 @@
 
 <img src="tr.png">
 
+### collecting of relevent Info -- rhel 6 - 7- 8 
+
+<img src="coll.png">
+
+### checking on servera -- for the status rsyslog & systemd-journald
+
+<img src="ch.png">
+
+
+
 
 
