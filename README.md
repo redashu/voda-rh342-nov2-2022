@@ -73,5 +73,21 @@
 
 <img src="sel.png">
 
+### Selinux more info 
+
+<img src="sel1.png">
+
+## System Monitoring & console managemnt 
+
+<img src="cockpit.png">
+
+### enable cockpit 
+
+<img src="en.png">
+
+### installing add-ons in cockpit 
+
+<img src="add.png">
+
 
 
