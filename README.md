@@ -90,5 +90,13 @@
 
 <img src="runit.png">
 
+### final ansible playbook for complte vsftpd setup 
+
+<img src="com.png">
+
+### lets run it 
+
+<img src="runit1.png">
+
 
 
