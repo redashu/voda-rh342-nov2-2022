@@ -31,6 +31,26 @@
 
 <img src="fire.png">
 
+## Centralized / Remote logging 
+
+<img src="cl.png">
+
+### log severity levels 
+
+<img src="sev.png">
+
+### enable remote logging TCP and UDP 
+
+<img src="rmlog.png">
+
+### COnfiguration changes in REmote log server for templating purpose 
+
+<img src="tmrl.png">
+
+### on log client configuration setup 
+
+<img src="rlcl.png">
+
 
 
 
