@@ -52,5 +52,43 @@
 <img src="rlcl.png">
 
 
+## Automation engineering 
+
+<img src="auto.png">
+
+### Redhat satellite & Ansible 
+
+<img src="an.png">
+
+### Deep look into Ansible 
+
+<img src="an1.png">
+
+### Ansible Hosts -- conf
+
+<img src="host1.png">
+
+### updating inventory and ansible.cfg file 
+
+<img src="cfg.png">
+
+### sample adhoc ansible command 
+
+<img src="adhoc.png">
+
+### ansible playbook sample 
+
+<img src="playbook.png">
+
+### final playbook and lets run it 
+
+### playbook 
+
+<img src="play1.png">
+
+### running it 
+
+<img src="runit.png">
+
 
 
