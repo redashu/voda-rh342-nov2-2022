@@ -98,5 +98,25 @@
 
 <img src="runit1.png">
 
+## AIDE --- 
+
+<img src="aide.png">
+
+### aide more info 
+
+<img src="aide1.png">
+
+### AIDE conf 
+
+<img src="aidec.png">
+
+### to detect changes aide compare current and previous databases hash values 
+
+<img src="aideh.png">
+
+### using aide 
+
+<img src="aideck.png">
+
 
 
