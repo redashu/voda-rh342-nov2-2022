@@ -74,6 +74,22 @@
 
 <img src="uefi1.png">
 
+### setting grub password to prevent live kernel parameter passing 
+
+<img src="sec.png">
+
+### run-level vs targets 
+
+<img src="target.png">
+
+### changing target in workstation machine 
+
+<img src="tr1.png">
+
+### listing dependency in image format 
+
+<img src="svg1.png">
+
 
 
 
