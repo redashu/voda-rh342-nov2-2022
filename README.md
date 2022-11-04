@@ -66,6 +66,14 @@
 <img src="grubby.png">
 
 
+## info about UEFI firmware 
+
+<img src="uefi.png">
+
+### EFI / UEFI based grub2 
+
+<img src="uefi1.png">
+
 
 
 
