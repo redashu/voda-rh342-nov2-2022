@@ -91,5 +91,17 @@
 <img src="svg1.png">
 
 
+## Creating custom service for sample Python flask application 
+
+<img src="flask.png">
+
+### sample python flask app 
+
+<img src="appf.png">
+
+### finally custom config file 
+
+<img src="custom.png">
+
 
 
