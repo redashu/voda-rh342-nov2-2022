@@ -124,6 +124,31 @@ Configuration:
 
 ```
 
+### USB & PCI -- 
+
+```
+oot@babykool:~# 
+root@babykool:~# lsscsi
+[0:0:0:0]    disk    ATA      Secureye SSD     6A0   /dev/sda 
+root@babykool:~# lsusb 
+Bus 001 Device 002: ID 8087:8001 Intel Corp. 
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 003 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 002 Device 004: ID 04f2:b449 Chicony Electronics Co., Ltd Integrated Camera
+Bus 002 Device 003: ID 8087:0a2a Intel Corp. 
+Bus 002 Device 002: ID 058f:9540 Alcor Micro Corp. AU9540 Smartcard Reader
+Bus 002 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+root@babykool:~# 
+
+```
+
+### ERROR reporting for hardware ISsues 
+
+### RAS
+
+<img src="ras.png">
+
+
 
 
 
