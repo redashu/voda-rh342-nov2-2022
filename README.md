@@ -26,6 +26,22 @@
 
 <img src="list.png">
 
+## storage io 
+
+<img src="tool.png">
+
+### Stratis in RHEL 
+
+<img src="stratis.png">
+
+### Installing stratisD 
+
+<img src="stra.png">
+
+### creating pool , fs and mount it 
+
+<img src="create1.png">
+
 
 
 
