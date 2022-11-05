@@ -148,6 +148,9 @@ root@babykool:~#
 
 <img src="ras.png">
 
+## Configuring memtest in rhel 8 
+
+<img src="memtest.png">
 
 
 
