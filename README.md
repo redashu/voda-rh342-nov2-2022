@@ -43,6 +43,10 @@
 <img src="create1.png">
 
 
+### creating fstab for persistent boot 
+
+<img src="fst.png">
+
 
 
 
