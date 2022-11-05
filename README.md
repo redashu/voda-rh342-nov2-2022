@@ -48,6 +48,26 @@
 <img src="fst.png">
 
 
+### taking snapshot 
+
+<img src="snap.png">
+
+### creating a normal partition 
+
+<img src="part.png">
+
+### format with ext4 
+
+<img src="ext4.png">
+
+## E2fsck with backup superblock 
+
+<img src="backup.png">
+
+### removing stratis db 
+
+<img src="rmst.png">
+
 
 
 
