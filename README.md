@@ -42,6 +42,26 @@
 
 <img src="icmp11.png">
 
+## RPM issues 
+
+### Understanding rpm and yum repo 
+
+<img src="yum.png">
+
+### checking dependency of yum package 
+
+<img src="dep1.png">
+
+### checking yum history and info 
+
+<img src="info.png">
+
+### checking rpm options 
+
+<img src="rpm11.png">
+
+
+
 
 
 
