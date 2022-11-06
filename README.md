@@ -26,7 +26,21 @@
 
 <img src="icmp.png">
 
+## Using Nmap to check host and its port & service status 
 
+<img src="nmap.png">
+
+### firewalld 
+
+<img src="firewalld.png">
+
+### Network traffic analyzer 
+
+<img src="nettr.png">
+
+### tcpdump for packet capture 
+
+<img src="icmp11.png">
 
 
 
