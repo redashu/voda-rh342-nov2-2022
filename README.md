@@ -64,6 +64,25 @@
 
 <img src="c.png">
 
+### yum & rpm tips 
+
+<img src="reinstal.png">
+
+===
+<img src="rpmc.png">
+
+### listing duplicacy 
+
+<img src="dup.png">
+
+### yum version lock
+
+<img src="versionlock.png">
+
+### task case 
+
+<img src="cct.png">
+
 
 
 
