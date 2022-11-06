@@ -84,6 +84,32 @@
 <img src="cct.png">
 
 
+## application need library to make syscalls -- and we can use strace to see syscall
+
+### using ldd to check required libs while running that app / command 
+
+<img src="app.png">
+
+### checking lib issues 
+
+<img src="libs.png">
+
+### ldd based solving problem 
+
+<img src="solv.png">
+
+## Kdump process in OS crash 
+
+<img src="oscr.png">
+
+### checking all kdump process
+
+<img src="kd.png">
+
+### OOM and process hang configure manager
+
+<img src="oom.png">
+
 
 
 
